@@ -1,8 +1,8 @@
-# 📊 Dashboard de Atendimento e Customer Experience (CX)
+ Dashboard de Atendimento e Customer Experience (CX)
 
 Dashboard desenvolvido no Power BI para análise de indicadores de atendimento e experiência do cliente, com foco em volume, eficiência operacional, satisfação e resolutividade.
 
-## 🎯 Objetivo
+ Objetivo
 
 Transformar dados de atendimento em informações que apoiem a tomada de decisão, permitindo identificar padrões de demanda, oportunidades de melhoria na operação e impactos na experiência do cliente.
 
@@ -17,7 +17,7 @@ O dashboard foi estruturado para responder perguntas como:
 - Como está o cumprimento do SLA?
 - Existem diferenças de performance entre canais, filas e agentes?
 
-## 📌 Estrutura do Dashboard
+ Estrutura do Dashboard
 
 ### 01 — Visão Executiva
 
@@ -83,7 +83,7 @@ Visão analítica para identificação de gargalos e oportunidades de melhoria.
 - CSAT por agente
 - Distribuição dos atendimentos por canal e assunto
 
-## 📊 Principais KPIs
+ Principais KPIs
 
 ### CSAT
 Customer Satisfaction Score utilizado para acompanhar a satisfação dos clientes após o atendimento.
