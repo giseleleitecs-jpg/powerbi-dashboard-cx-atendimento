@@ -1,8 +1,8 @@
- ##Dashboard de Atendimento e Customer Experience (CX)
+ ## Dashboard de Atendimento e Customer Experience (CX)
 
 Dashboard desenvolvido no Power BI para análise de indicadores de atendimento e experiência do cliente, com foco em volume, eficiência operacional, satisfação e resolutividade.
 
- ##Objetivo
+ ## Objetivo
 
 Transformar dados de atendimento em informações que apoiem a tomada de decisão, permitindo identificar padrões de demanda, oportunidades de melhoria na operação e impactos na experiência do cliente.
 
@@ -100,7 +100,7 @@ Indicador utilizado para acompanhar o percentual de atendimentos realizados dent
 ### Resolução no Primeiro Contato
 Percentual de atendimentos solucionados sem necessidade de novos contatos ou encaminhamentos.
 
-## 🛠️ Ferramentas e Tecnologias
+##  Ferramentas e Tecnologias
 
 - Power BI
 - DAX
